@@ -21,8 +21,8 @@ Backend Developer yang fokus ngebangun aplikasi web yang scalable dan rapi. Lagi
 
 ### ⚡ Aktivitas GitHub
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BetrandStevenBukanPeto&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BetrandStevenBukanPeto&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
